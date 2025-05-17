@@ -1,5 +1,5 @@
 # 💫 關於我:
-🔭 主要維護項目: [MxMDL](https://github.com/ElliotCHEN37/MxMDL), [project-tuyu](https://github.com/ElliotCHEN37/project-tuyu)<br>👯 主要貢獻項目: [EeveeSpotify](https://github.com/ElliotCHEN37/EeveeSpotify)<br>🌐 聯繫方式: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elliotchen2010@gmail.com) 
+🔭 主要維護項目: [MxMDL](https://github.com/ElliotCHEN37/MxMDL), [project-tuyu](https://github.com/ElliotCHEN37/project-tuyu), [Chunager](https://github.com/ElliotCHEN37/chunager)<br>🌐 聯繫方式: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elliotchen2010@gmail.com) 
 # 💻 使用的技術:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white)
 # 📊 GitHub 狀態:
